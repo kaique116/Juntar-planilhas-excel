@@ -1,8 +1,8 @@
 Passo a passo para instalar todas as bibliotecas necessárias:
   
   Windows:
-    Instalar o Python, ativando a caixinha "Add Python to PATH"
 
+    Instalar o Python, ativando a caixinha "Add Python to PATH"
     1º Jeito:
       pip install pandas openpyxl
   
@@ -22,6 +22,7 @@ Passo a passo para instalar todas as bibliotecas necessárias:
       python3 -m pip install --user pandas openpyxl
   
   Mac OS:
+
     Instalar o Python pelo comando: "brew install python"
     1º Jeito:
       pip3 install pandas
