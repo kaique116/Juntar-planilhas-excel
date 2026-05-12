@@ -1,4 +1,5 @@
 Passo a passo para instalar todas as bibliotecas necessárias:
+  
   Windows:
     Instalar o Python, ativando a caixinha "Add Python to PATH"
 
