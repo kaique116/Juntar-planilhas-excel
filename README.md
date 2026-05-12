@@ -18,7 +18,7 @@ Passo a passo para instalar todas as bibliotecas necessárias:
       pip3 install pandas openpyxl
       
       sudo apt install python3-pip python3-tk
-      Ou,
+
       python3 -m pip install --user pandas openpyxl
   
   Mac OS:
