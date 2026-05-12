@@ -1,0 +1,3 @@
+Para usa-lo, certas bibliotecas serão necessárias
+Tkinter e Pandas são elas.
+Aproveite!
