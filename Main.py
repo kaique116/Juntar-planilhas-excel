@@ -7,6 +7,10 @@ def juntar_planilhas():
 
     planilha_completa = pd.concat([planilha1, planilha2], ignore_index=True)
 
+    planilha_completa.to_excel("Planilha_completa.xlsx")
+
+    messagebox.showinfo("Sucesso", "Planilhas juntas com sucesso!")
+
     
 
 janela = tk.Tk()
@@ -20,3 +24,5 @@ informar_planilha2.pack()
 
 botao_juntar = tk.Button(janela, text='Clica aqui para juntar as planilhas', command=juntar_planilhas)
 botao_juntar.pack()
+
+janela.mainloop()
