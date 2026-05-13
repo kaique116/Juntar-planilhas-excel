@@ -1,3 +1,5 @@
+<img width="371" height="315" alt="Boa boa pra nois" src="https://github.com/user-attachments/assets/4d2ac557-00f5-4e7e-bebd-a2c8bd916271" />
+
 # Juntar-planilhas-excel
 Junte duas planilhas excel com este simples programa!
 
