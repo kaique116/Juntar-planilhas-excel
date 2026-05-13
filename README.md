@@ -1,6 +1,7 @@
 # Juntar-planilhas-excel
 Junte duas planilhas excel com este simples programa!
 
+Para usa-lo, você precisa de algumas coisas baixadas em seu computador.
 
 Passo a passo para instalar todas as bibliotecas necessárias:
   
