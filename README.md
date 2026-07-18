@@ -37,4 +37,4 @@ Passo a passo para instalar todas as bibliotecas necessárias:
     python3 -m pip install pandas
     O Tkinter já vem instalado no Mac OS!
 
-# PIX PARA DOAÇÕES: "da5e853b-41f5-4f68-963c-e1b425ff9f55"
+# PIX PARA DOAÇÕES: "da5e853b-41f5-4f68-963c-e1b425ff9f55" - CHAVE ALEATÓRIA
